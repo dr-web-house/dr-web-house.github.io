@@ -33,7 +33,7 @@
 
 ### 除此之外，如果你具备以下能力，我们优先期待你的加入：
 - 有可showcase的代码展示个人对技术的理解。
-- 有Mobile hybrid App经验，Cordava等开发经验。
+- 有Mobile hybrid App经验，Cordava等开发经验。
 - 参与过server端API开发, 理解RESTful API的设计
 - 使用过server端渲染技术, 掌握Web服务端框架技术Express.js/Koa
 - 了解同构isomorphic技术, 有优化SEO的经验
