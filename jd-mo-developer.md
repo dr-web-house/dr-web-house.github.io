@@ -1,15 +1,15 @@
-# (Senior) Hybrid Mobile Application Engineer (iOS/Android)
+# (Senior) Hybrid Mobile Application Engineer (iOS/Android)
 
-我们正在寻找出色的，对用户体验有深刻理解的Hybrid移动应用开发工程师，你会成为一个核心金融业务产品团队的成员，你的工作成果将会直接影我们的用户体验，并且被复用在不同的产品中. 我们不仅致力实现有竞争力的产品和业务方案，更希望借助高复用性和平台化的技术方案持续的推进产品创新和行业影响力。
+我们正在寻找出色的，对用户体验有深刻理解的Hybrid移动应用开发工程师，你会成为一个核心金融业务产品团队的成员，你的工作成果将会直接影我们的用户体验，并且被复用在不同的产品中. 我们不仅致力实现有竞争力的产品和业务方案，更希望借助高复用性和平台化的技术方案持续的推进产品创新和行业影响力。
 
-我们希望你对不断演进的客户端技术都又乐于学习，有团队精神。
+我们希望你对不断演进的客户端技术都又乐于学习，有团队精神。
 
 ## What you will be doing
 - 负责打包和发布应用到个主流App Stores;
 - 移动端hybrid技术评估选型
-- 参与业务逻辑，交互实现的评估和设计
+- 参与业务逻辑，交互实现的评估和设计
 - 和team一起讨论和头脑风暴解决方案，PoC 及原型实现
-- peer-reviewed，End-to-end test covered 高质量代码实现
+- peer-reviewed，End-to-end test covered 高质量代码实现
 - 可复用native插件开发
 
 ## About you
@@ -20,11 +20,11 @@
 2年以上
 ### 能力
 - 有面向对象高级计算机语言基础，英语阅读能力。
-- 掌握 iOS or Android ecosystem
+- 掌握 iOS or Android ecosystem
 	- Android – J2EE/J2ME, Android SDK, SQLite/MySQL, Eclipse
 	- iOS - Objective-C, iOS SDK, Xcode, Swift
 - 分析和调优应用程序性能或API调用性能经验
-- 有跨设备测试平台应用经验, 了解TDD, BDD开发模式
+- 有跨设备测试平台应用经验, 了解TDD, BDD开发模式
 - 能编写有可维护性高，复用性高的代码
 - 对如基于Cordava等技术的Hybrid移动应用SDK有了解。
 - 有需求分析经验，用例或流程图和测试案例设计有经验
