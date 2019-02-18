@@ -6,7 +6,7 @@
 
 ## What you will be doing
 - 参与业务逻辑，交互实现的评估和设计
-- 实现注重细节、性能、体验出色的跨平台兼容性UI，基于Angular 6等技术
+- 实现注重细节、性能、体验出色的跨平台兼容性UI，基于Angular 7, Material Design等技术
 - 和team一起讨论和头脑风暴解决方案，PoC 及原型实现
 - peer-reviewed，End-to-end test covered 高质量代码实现
 - 复用组件贡献，开发体验优化工具的开发，showcase开发和文档站
